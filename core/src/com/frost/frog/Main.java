@@ -18,7 +18,6 @@ import com.frost.frog.state.Loading;
 
 public class Main extends Game {
 
-
 	public static double alpha = 0;
 	public static double scale = 1;
 	public boolean setState = false;
